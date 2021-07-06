@@ -1,6 +1,8 @@
-# quantum_math
+# Math for Quantum Computation (Rust) :rocket:
 
-Run files with
+Examples for Quantum Computation's Math with Rust.
+
+You can run the example files with
 
 ```
 cargo run --example <filename in examples directory>
